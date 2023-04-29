@@ -10,9 +10,10 @@ const processData = async () => {
 			.map((name) => loadFilePromise(name))
 	)
 		.then((data) => {
-			data.forEach((item) => {
+			data.forEach((item, itemIndex) => {
 				item.forEach((line) => {
-					counter[line] = counter[line] ? counter[line] + 1 : 1
+					if (!counter[line]) counter[line] = new Set()
+					counter[line].add(itemIndex)
 				})
 			})
 			return Object.entries(counter)

@@ -1,0 +1,195 @@
+[
+  {
+    "userName": "Ralph Poole",
+    "userId": "5fff07b70c6f5f594b03d54c",
+    "vacations": [
+      {
+        "_id": "617660a44c4250001275c807",
+        "usedDays": 1,
+        "endDate": "2021-11-02",
+        "startDate": "2021-11-02"
+      }
+    ]
+  },
+  {
+    "userName": "Keiran Haney",
+    "userId": "5f57b9b3b642eb0017808882",
+    "vacations": [
+      {
+        "_id": "6177b1884c4250001275d6f8",
+        "usedDays": 5,
+        "endDate": "2021-11-19",
+        "startDate": "2021-11-15"
+      }
+    ]
+  },
+  {
+    "userName": "Tahlia Kelly",
+    "userId": "602291efca744a001259baee",
+    "vacations": [
+      {
+        "_id": "61823e97ac15350011f7fcea",
+        "usedDays": 2,
+        "endDate": "2021-11-05",
+        "startDate": "2021-11-04"
+      },
+      {
+        "_id": "61b653863a853300128767a0",
+        "usedDays": 1,
+        "endDate": "2021-12-13",
+        "startDate": "2021-12-13",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "userName": "Edna Ramsey",
+    "userId": "602666c98465030011abd896",
+    "vacations": [
+      {
+        "_id": "618d2e6eac15350011f833eb",
+        "usedDays": 10,
+        "endDate": "2021-12-10",
+        "startDate": "2021-11-29"
+      }
+    ]
+  },
+  {
+    "userName": "Gloria Winter",
+    "userId": "603e4a14b2ab3400117a2bd4",
+    "vacations": [
+      {
+        "_id": "619394943a8533001285e7fb",
+        "usedDays": 1,
+        "endDate": "2021-11-22",
+        "startDate": "2021-11-22"
+      }
+    ]
+  },
+  {
+    "userName": "Conrad Boyd",
+    "userId": "5f57b892b642eb0017808876",
+    "vacations": [
+      {
+        "_id": "619434303a8533001285f100",
+        "usedDays": 1,
+        "endDate": "2021-11-22",
+        "startDate": "2021-11-22",
+        "status": "approved"
+      },
+      {
+        "_id": "619434303a8533001285f100",
+        "usedDays": 3,
+        "endDate": "2021-10-22",
+        "startDate": "2021-10-20",
+        "status": "approved"
+      },
+      {
+        "_id": "619434303a8533001285f100",
+        "usedDays": 1,
+        "endDate": "2021-12-01",
+        "startDate": "2021-12-01",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "userName": "Clementine Maddox",
+    "userId": "5fff08fc0c6f5f594b03d54d",
+    "vacations": [
+      {
+        "_id": "619602f13a8533001285fb95",
+        "usedDays": 3,
+        "endDate": "2021-12-05",
+        "startDate": "2021-12-01"
+      }
+    ]
+  },
+  {
+    "userName": "Gracie Joyce",
+    "userId": "602671015fe2cc0011b9f989",
+    "vacations": [
+      {
+        "_id": "6196a33a3a853300128602eb",
+        "usedDays": 3,
+        "endDate": "2021-11-23",
+        "startDate": "2021-11-19"
+      },
+      {
+        "_id": "6196a33a3a853300128602eb",
+        "usedDays": 3,
+        "endDate": "2021-12-12",
+        "startDate": "2021-12-10"
+      }
+    ]
+  },
+  {
+    "userName": "Homer Siers",
+    "userId": "60b7c1f04df06a0011ef0e76",
+    "vacations": [
+      {
+        "_id": "61a3c3bb3a85330012864b5b",
+        "usedDays": 2,
+        "endDate": "2021-12-10",
+        "startDate": "2021-12-09"
+      }
+    ]
+  },
+  {
+    "userName": "Willie Turner",
+    "userId": "60be18161af932001237584b",
+    "vacations": [
+      {
+        "_id": "61a63af23a853300128672fa",
+        "usedDays": 1,
+        "endDate": "2021-12-01",
+        "startDate": "2021-12-01",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "userName": "Gabriel Savage",
+    "userId": "604e26d9aed6010012a038f1",
+    "vacations": [
+      {
+        "_id": "61b11cfc3a8533001286e862",
+        "usedDays": 1,
+        "endDate": "2021-12-10",
+        "startDate": "2021-12-10",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "userName": "Freddie Roman",
+    "userId": "60c331ff1f37230011191058",
+    "vacations": [
+      {
+        "_id": "61b36ff43a853300128734fb",
+        "usedDays": 1,
+        "endDate": "2021-12-14",
+        "startDate": "2021-12-14"
+      },
+      {
+        "_id": "61b36ff43a853300128734fb",
+        "usedDays": 1,
+        "endDate": "2021-12-14",
+        "startDate": "2021-12-14"
+      }
+    ]
+  },
+  {
+    "userName": "Aron Hansen",
+    "userId": "6113c7e519e5740011288e40",
+    "vacations": [
+      {
+        "_id": "61b3700b3a85330012873568",
+        "usedDays": 1,
+        "endDate": "2021-12-14",
+        "startDate": "2021-12-14",
+        "status": "approved"
+      }
+    ]
+  }
+]
